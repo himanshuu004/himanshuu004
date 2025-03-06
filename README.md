@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Himanshu! 🚀<br>I'm a Web Developer & Problem Solver<br><br><br>Let's Connect!<br>I’m always open to collaborations, discussions, and exciting projects. Let’s build something amazing together!<br><br>
+Hi, I'm Himanshu! 🚀<br>I'm a Full Stack Web Developer & Problem Solver<br><br><br>Let's Connect!<br>I’m always open to collaborations, discussions, and exciting projects. Let’s build something amazing together!<br><br>
 
 
 ## 🌐 Socials:
