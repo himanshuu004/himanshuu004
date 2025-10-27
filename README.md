@@ -1,6 +1,6 @@
-# Hi, I'm Himanshu! 👋
+# 💫 About Me:
+Hi, I'm Himanshu! 🚀<br>I'm a Full Stack Web Developer & Problem Solver<br><br><br>Let's Connect!<br>I’m always open to collaborations, discussions, and exciting projects. Let’s build something amazing together!<br><br>
 
-I'm a Full Stack Web Developer passionate about building scalable applications and solving complex problems through code.
 
 🌐 **Portfolio:** [portfolio-himanshu-eosin.vercel.app](https://portfolio-himanshu-eosin.vercel.app/)
 
