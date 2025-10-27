@@ -2,6 +2,8 @@
 
 I'm a Full Stack Web Developer passionate about building scalable applications and solving complex problems through code.
 
+🌐 **Portfolio:** [portfolio-himanshu-eosin.vercel.app](https://portfolio-himanshu-eosin.vercel.app/)
+
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-rawat-3ba9a9265/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshuu004@gmail.com)
@@ -14,7 +16,6 @@ I'm a Full Stack Web Developer passionate about building scalable applications a
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
@@ -38,12 +39,6 @@ I'm a Full Stack Web Developer passionate about building scalable applications a
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=himanshuu004&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuu004&theme=default&hide_border=true&layout=compact)
 
 ---
 
