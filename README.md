@@ -2,16 +2,16 @@
 Hi, I'm Himanshu! 🚀<br>I'm a Developer & Problem Solver<br><br><br>Let's Connect!<br>I’m always open to collaborations, discussions, and exciting projects. Let’s build something amazing together!<br><br>
 
 Expertise in IT/MIS systems, digital transformation, and
-government consulting projects. He has worked at PricewaterhouseCoopers (PwC)
+government consulting projects. I have worked at PricewaterhouseCoopers (PwC)
 across Livelihood Government Consulting and Training & Skill
 Development projects, contributing to MIS portal development, dashboard
 design, data analytics, stakeholder coordination, and government documentation.
 His additional experience spans fintech backend development and clinical MIS
 systems.
-His key competencies include MIS portal development, role-based dashboard
+MY key competencies include MIS portal development, role-based dashboard
 design, database management, data analytics, financial compliance tracking,
 project documentation, stakeholder coordination, and technical problem-solving.
-He is proficient in PHP/Laravel, MySQL, Power BI, Microsoft 365, MERN Stack,
+I am proficient in PHP/Laravel, MySQL, Power BI, Microsoft 365, MERN Stack,
 Python, AI and modern web technologies, with demonstrated ability to translate
 complex government programme requirements into scalable digital systems.
 
